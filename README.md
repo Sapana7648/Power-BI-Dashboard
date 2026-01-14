@@ -1,11 +1,10 @@
 # Power-BI-Dashboard
-1. Project Title
-📊 Blinkit Sales Analysis Dashboard | Power BI
+1. Project Title: 📊 Blinkit Sales Analysis Dashboard | Power BI
 
-2. Short Description
-This project presents an interactive Power BI dashboard built to analyze real-time Blinkit sales data and extract meaningful business insights. The dashboard helps understand sales performance across outlet types, outlet sizes, locations, item categories, and fat content, enabling data-driven decision-making.
+2. Short Description: This project presents an interactive Power BI dashboard built to analyze Blinkit sales data and extract meaningful business insights. The dashboard helps understand sales performance across outlet types, outlet sizes, locations, and item categories, enabling data-driven decision-making.
 
-3.🔍 Project Objectives
+3. 🔍 Project Objectives
+
 Analyze overall sales performance and key KPIs
 
 Identify top-performing outlet types and locations
@@ -50,5 +49,4 @@ It contains structured retail sales data related to Blinkit, including outlet de
 
 The data was cleaned and transformed within Power BI before visualization
 
- 7.Screenshot
- 
+7.Screenshot
