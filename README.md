@@ -50,3 +50,4 @@ It contains structured retail sales data related to Blinkit, including outlet de
 The data was cleaned and transformed within Power BI before visualization
 
 7.Screenshot
+Dashboard Preview (https://github.com/Sapana7648/Power-BI-Dashboard/blob/main/blinkit%20Sales%20Dashboard.png)
