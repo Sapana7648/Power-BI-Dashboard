@@ -51,3 +51,5 @@ The data was cleaned and transformed within Power BI before visualization
 
 7.Screenshot
 Dashboard Preview (https://github.com/Sapana7648/Power-BI-Dashboard/blob/main/blinkit%20Sales%20Dashboard.png)
+<img width="1319" height="735" alt="blinkit Sales Dashboard" src="https://github.com/user-attachments/assets/9fdf8b4b-6f10-47f0-a4a0-e7480d41a962" />
+
