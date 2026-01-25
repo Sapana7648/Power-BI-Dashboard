@@ -5,49 +5,49 @@
 
 3. 🔍 Project Objectives
 
-Analyze overall sales performance and key KPIs
+    Analyze overall sales performance and key KPIs
 
-Identify top-performing outlet types and locations
+    Identify top-performing outlet types and locations
 
-Understand customer preferences across item categories
+    Understand customer preferences across item categories
 
-Track trends in outlet establishment over time
+    Track trends in outlet establishment over time
 
-Provide a clear and interactive business overview using visuals
+    Provide a clear and interactive business overview using visuals
 
 4.📌 Key Features
 
-KPI Cards for Total Sales, Average Sales, Number of Items, and Average Rating
+  KPI Cards for Total Sales, Average Sales, Number of Items, and Average Rating
 
-Outlet-wise Analysis based on size, type, and location tier
+  Outlet-wise Analysis based on size, type, and location tier
 
-Item Type Analysis to identify high and low performing product categories
+  Item Type Analysis to identify high and low performing product categories
 
-Fat Content Analysis to understand consumer buying behavior
+  Fat Content Analysis to understand consumer buying behavior
 
-Time-Series Analysis showing sales trends by outlet establishment year
+  Time-Series Analysis showing sales trends by outlet establishment year
 
-Interactive Filters & Slicers for dynamic data exploration
+  Interactive Filters & Slicers for dynamic data exploration
 
 5.🛠 Tools & Technologies Used
 
-Microsoft Power BI
+  Microsoft Power BI
 
-Data Modeling
+  Data Modeling
 
-DAX (Data Analysis Expressions)
+  DAX (Data Analysis Expressions)
 
-Data Visualization & Dashboard Design
+  Data Visualization & Dashboard Design
 
-Business Intelligence Concepts
+  Business Intelligence Concepts
 
 6.📂 Data Source
 
-The dataset used in this project was sourced from Kaggle
+  The dataset used in this project was sourced from Kaggle
 
-It contains structured retail sales data related to Blinkit, including outlet details, product categories, sales metrics, and ratings
+  It contains structured retail sales data related to Blinkit, including outlet details, product categories, sales metrics, and ratings
 
-The data was cleaned and transformed within Power BI before visualization
+  The data was cleaned and transformed within Power BI before visualization
 
 7.Screenshot
 Dashboard Preview (https://github.com/Sapana7648/Power-BI-Dashboard/blob/main/blinkit%20Sales%20Dashboard.png)
