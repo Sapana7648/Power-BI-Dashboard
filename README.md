@@ -17,29 +17,29 @@
 
 4.📌 Key Features
 
-  KPI Cards for Total Sales, Average Sales, Number of Items, and Average Rating
+    KPI Cards for Total Sales, Average Sales, Number of Items, and Average Rating
 
-  Outlet-wise Analysis based on size, type, and location tier
+    Outlet-wise Analysis based on size, type, and location tier
 
-  Item Type Analysis to identify high and low performing product categories
+    Item Type Analysis to identify high and low performing product categories
 
-  Fat Content Analysis to understand consumer buying behavior
+    Fat Content Analysis to understand consumer buying behavior
 
-  Time-Series Analysis showing sales trends by outlet establishment year
+    Time-Series Analysis showing sales trends by outlet establishment year
 
-  Interactive Filters & Slicers for dynamic data exploration
+    Interactive Filters & Slicers for dynamic data exploration
 
 5.🛠 Tools & Technologies Used
 
-  Microsoft Power BI
+    Microsoft Power BI
 
-  Data Modeling
+    Data Modeling
 
-  DAX (Data Analysis Expressions)
+    DAX (Data Analysis Expressions)
 
-  Data Visualization & Dashboard Design
+    Data Visualization & Dashboard Design
 
-  Business Intelligence Concepts
+    Business Intelligence Concepts
 
 6.📂 Data Source
 
